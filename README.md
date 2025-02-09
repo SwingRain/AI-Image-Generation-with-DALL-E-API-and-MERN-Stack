@@ -1,5 +1,5 @@
 # AI Image Generation with DALL-E API and MERN Stack
-
+# (https://ai-image-generation-with-dall-e-api-and-mern-stack-5wfw.vercel.app/)
 AI image generation, an exciting and rapidly evolving field in the realm of artificial intelligence. In recent years, there has been a significant advancement in the capabilities of machine learning algorithms, particularly in the area of generative models. With the development of deep learning techniques, researchers have been able to create powerful AI models that can generate images that are nearly indistinguishable from real images. These AI image generation models have numerous potential applications in various fields, including entertainment, design, and advertising. 
 
 This project was inspired by one of such powerful AI image generation models: `OpenAI's DALL-E`
